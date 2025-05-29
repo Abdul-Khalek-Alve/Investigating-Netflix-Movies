@@ -1,9 +1,10 @@
 # Investigating-Netflix-Movies
 A Data Analysis Project
 
-Netflix! What started in 1997 as a DVD rental service has since exploded into one of the largest entertainment and media companies.
+#Project Description
+Explore Netflix movie data and perform exploratory data analysis for a production company to uncover insights about movies from a particular decade.
 
-Project Summary
+#Project Summary
 
 1. Performed exploratory data analysis on the netflix_data.csv data to understood more about movies from the 1990s decade.
 
